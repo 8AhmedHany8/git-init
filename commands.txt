@@ -1,0 +1,7 @@
+git init SWCM
+cd SWCM
+git checkout -b SWCM1
+ git add .
+ git commit -m "numbers"
+ git remote add origin https://github.com/8AhmedHany8/git-init.git
+ git push --set-upstream origin SWCM1
